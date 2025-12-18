@@ -2,10 +2,10 @@
 
 A 3D interactive visualization project developed using **JavaFX**. It creates a dynamic night city atmosphere with various visual effects.
 
-## ✨ Visual Preview
-<p align="center">
-  <img src="Skyline.gif" width="600" title="Project Demo">
-</p>
+## 📺 Project Demo
+[![Watch the Demo](https://img.shields.io/badge/🎥-Watch_Video_Demo-red?style=for-the-badge)]([رابط_الفيديو_هنا](https://youtu.be/xecmKeJvS_g))
+
+*Click the button above to see the 3D City Skyline in action, including the rainfall system and cinematic camera.*
 
 ## 🎮 Key Features
 - **3D City Rendering:** Using textures for realistic buildings.
